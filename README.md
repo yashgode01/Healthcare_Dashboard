@@ -25,8 +25,10 @@ Tableau Public
 
 5.WBC Vs Platelets
 
-3.Filters Added
+3.Filters Added:
+
 Gender
+
 Age Range
 
 ## Conclusion:
