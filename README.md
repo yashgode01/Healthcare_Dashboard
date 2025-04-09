@@ -26,10 +26,8 @@ Tableau Public
 5.WBC Vs Platelets
 
 3.Filters Added:
-
-Gender
-
-Age Range
+- Gender
+- Age Range
 
 ## Conclusion:
 Total Patients is 50
