@@ -1,7 +1,7 @@
 # Patient Blood Test Analysis Dashboard
 
 ## Table Of Contents
-Project Overview: 
+Project Overview: This project analyzes patient blood test results to identify health patterns, detect anomalies, and monitor vital health indicators such as hemoglobin, WBC count, cholesterol, and glucose levels. Using Tableau, interactive dashboards were created to visualize trends, compare results across demographics, and support data-driven insights for early diagnosis and patient care improvement.
 
 ## Data Sources:
 The dataset used for this analysis is a excel file and having 8 fields and 51 records.
