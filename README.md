@@ -18,8 +18,11 @@ Tableau Public
 - Average Glucose
 
 2.Number of Patients by Gender
+
 3.Number of Patients by Age Group
+
 4.Cholestrol Insights
+
 5.WBC Vs Platelets
 
 3.Filters Added
